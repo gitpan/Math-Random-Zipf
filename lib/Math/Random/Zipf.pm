@@ -4,7 +4,7 @@ use warnings;
 use strict;
 use POSIX;
 
-our $VERSION = '0.10';
+our $VERSION = '0.11';
 
 sub new {
     my ($class, $N, $exp) = @_;
